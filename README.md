@@ -4,7 +4,7 @@ This is a simple application using Mongodb, express.js, React and node.js.
 
 to run:
 
-Make sure that MongoDB is running
+make sure that MongoDB is running
 ```
 mongod
 ```
@@ -16,4 +16,4 @@ cd ticketing-frontend
 npm install
 npm start
 ```
-runnung at http://localhost:3000/
+go to http://localhost:3000/
