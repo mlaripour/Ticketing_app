@@ -3,20 +3,16 @@
 This is a simple application using Mongodb, express.js, React and node.js.
 
 to run:
-Install the dependencies
-```
-npm install
-```
+
 Make sure that MongoDB is running
 ```
 mongod
 ```
 run the server
 ```
+npm install
 node server.js
-```
-and then in a separate tab run the frontend
-```
+cd ticketing-frontend
 npm install
 npm start
 ```
