@@ -1,4 +1,4 @@
-# Ticketing_app_with_MERN_stack
+# Ticketing_app_by_MERN_stack
 
 This is a simple application using Mongodb, express.js, React and node.js.
 
